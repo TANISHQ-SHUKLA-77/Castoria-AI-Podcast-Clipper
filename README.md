@@ -160,6 +160,6 @@ IAM user policy to upload, download and list bucket items:
 
 # Videos used for testing / thumbnail
 
-[MI6 Secret Agent Talks About the World's Darkest Secrets](https://www.youtube.com/watch?v=-vMgbJ6WqN4)
+
 
 [Janney Sanchez | Therapy saved my life, From Rivera to Sanchez , Living in my Moms Shadow | Ep.198](https://www.youtube.com/watch?v=SOG0GmKts_I)
